@@ -1,4 +1,4 @@
-# Bank-Card-App-UI-React-Native
+# Onboarding Screen-UI-React-Native
 
 <div align="center">
 
